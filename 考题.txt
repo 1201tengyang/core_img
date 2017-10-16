@@ -1,0 +1,10 @@
+1. 原型与原型链结构图(详细)
+	function Foo () {}
+	var f1 = new Foo()
+	var f2 = new Foo()
+	var o1 = new Object()
+	var o2 = new Object()
+2. 事件循环结构流程图
+3. MVVM结构流程图
+4. vuex结构流程图
+5. redux结构流程图
